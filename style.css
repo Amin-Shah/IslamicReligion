@@ -35,7 +35,7 @@ body{
 }
 #navbar>ul{
     display: inline-block;
-    margin: -0.2em 0 0 -1.95em;
+    margin: -0.22em 0 0 -1.95em;
 }
 ul>li{
     list-style-type: none;
@@ -45,6 +45,9 @@ ul>li{
     font-size: 13px;
     width: 146px;
     padding-left: 4px;
+}
+ul>li>a{
+    text-decoration: none;
 }
 .imag_2{
     padding:6px 1px 0 0;
